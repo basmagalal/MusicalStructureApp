@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     tools:context=".RomancActivity"
     android:orientation="vertical"
-    android:background="@drawable/musical"
+    android:background="@mipmap/musical"
     >
 
     <LinearLayout
@@ -24,7 +24,7 @@
     <Button
         android:layout_width="50dp"
         android:layout_height="50dp"
-        android:background="@drawable/logou"
+        android:background="@mipmap/logou"
         android:layout_alignParentRight="true"
         android:layout_alignParentBottom="true"
         android:layout_marginBottom="60dp"
